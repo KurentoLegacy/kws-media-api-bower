@@ -23,5 +23,6 @@
       "email": "piranna@gmail.com",
       "url": "http://pirannafs.blogspot.com.es"
     }
-  ]
+  ],
+  "main": "js/kws-media-api.js"
 }
